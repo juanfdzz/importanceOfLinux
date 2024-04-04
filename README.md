@@ -3,7 +3,7 @@
 ## Introducción
 Linux es un sistema operativo de código abierto que ha sido fundamental en el desarrollo y avance de la informática moderna. Desde su creación en 1991 por Linus Torvalds, Linux ha revolucionado la industria tecnológica y ha influido en diversos campos, desde servidores empresariales hasta dispositivos móviles.
 
-Un 96.3% de un millón de servidores web en el top utilizan Linux. Cualquiera; Google, Facebook, Wikipedia, etc.-- corren sobre Linux. Pasa igual con la nube, donde linux corre el 90% de ella.
+El 96.3% sobre el top millón de servidores web utilizan Linux. Cualquiera; Google, Facebook, Wikipedia, etc.-- corren sobre Linux. Pasa igual con la nube, donde linux corre el 90%.
 Por curiosidad, linux desktop se usa sólo en un 4%
 
 ## Libertad y Flexibilidad
