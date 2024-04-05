@@ -9,7 +9,7 @@ Una de las características más destacadas de Linux es su naturaleza de código
 - Github de linux
 
 ## Estabilidad y Seguridad
-Linux también debe su fama a la estabilidad y seguridad que posee. A parte de tener un diseño muy seguro, cuenta con una amplia base de usuarios y desarrolladores que vigilan su seguridad. Linux es menos susceptible a ataques de malware y virus en comparación con otros sistemas operativos. Además, su arquitectura modular y su capacidad para ejecutarse en una variedad de arquitecturas hardware lo hacen ideal para entornos críticos.
+Linux también debe su fama a la estabilidad y seguridad que posee. A parte de tener un diseño muy seguro, cuenta con una amplia base de usuarios y desarrolladores que vigilan su seguridad, lo que lo hace menos susceptible a ataques de malware y virus en comparación con otros sistemas operativos. Además, su arquitectura modular y su capacidad para ejecutarse en una variedad de arquitecturas hardware lo hacen ideal para entornos críticos.
 
 Ejemplos: 
 Dispositivos de red como routers, switches y firewalls. 
