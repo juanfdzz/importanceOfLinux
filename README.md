@@ -18,7 +18,7 @@ Ejemplos:
 - Supercomputadoras y centros de datos. Alto rendimiento, tareas intensivas de cálculo
 
 ## Uso Generalizado
-Linux ha permeado en casi todos los aspectos de la tecnología moderna, pues el 96.3% sobre el top millón de servidores web utilizan lo utilizan. Cualquiera; Google, Facebook, Wikipedia, etc. Pasa igual con la nube, pues se ejecuta en un 90% sobre Linux. Por curiosidad, linux desktop se usa sólo en un 4%
+Linux ha permeado en casi todos los aspectos de la tecnología moderna, pues el 96.3% sobre el top millón de servidores web lo utilizan. Cualquiera; Google, Facebook, Wikipedia, etc. Pasa igual con la nube, pues se ejecuta en un 90% sobre Linux. Por curiosidad, linux desktop se usa sólo en un 4%
 
 ## Fomenta la Innovación
 La naturaleza de código abierto de Linux ha fomentado la innovación en la industria tecnológica. Muchas de las tecnologías que damos por sentado hoy en día, como la virtualización, los contenedores y el cloud computing, tienen sus raíces en el ecosistema de Linux. Además, la colaboración abierta entre desarrolladores de todo el mundo ha permitido que Linux evolucione y se adapte constantemente a las necesidades cambiantes del mercado.
