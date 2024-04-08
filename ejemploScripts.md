@@ -5,12 +5,14 @@
 5. Revisar con ellos el código en github hecho para Stemdo. ¿Qué porcentaje del repo está escrito en bash? ¿Qué importancia tiene bash sobre los runners que se utilizan en Github?
 Nuestros runners tienen ubuntu de SO, que entiendan que son como una "instancia de shell" que dura sólo mientras se ejecute y luego se "resetea", hay que instalarle paquetes si no los tiene, etc. Como en su terminal de Linux.
 
-- https://github.com/stemdo/tfdeploy-ccoe-platform/blob/main/k8s-ops/helm_diff.sh < Condicionales, bucles, stdin y stdout.
-- https://github.com/stemdo/tfdeploy-ccoe-platform/blob/main/k8s-ops/set_env.sh < Importancia de variables
-- https://github.com/stemdo/workflows/blob/main/.github/workflows/helm-v2.yml < Runner de Ubuntu, instalación de herramientas, todo va a parar aquí para llevar a cabo la acción deseada, asignar variables a ejecucion de comando y control del flujo con condicionales.
+- helm_diff.sh < Condicionales, bucles, stdin y stdout.
 
 ![helm_diff](pics/1.png)
 
+- set_env.sh < Importancia de variables
+
 ![set_env](pics/2.png)
+
+- helm-v2.yml < Runner de Ubuntu, instalación de herramientas, todo va a parar aquí para llevar a cabo la acción deseada, asignar variables a ejecucion de comando y control del flujo con condicionales.
 
 ![helm_v2](pics/3.png)
